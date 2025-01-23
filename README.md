@@ -4,8 +4,6 @@ This project is an implementation of the classic Asteroids game, designed to enh
 
 The purpose of this project is to deepen my understanding of C++ by applying it to a creative and interactive application. Through this process, I aim to improve my ability to design, develop, and debug complex systems. 
 
-[Software Demo Video]()
-
 # Development Environment
 
 - **IDE:** Visual Studio 2022
