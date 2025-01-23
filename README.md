@@ -1,4 +1,4 @@
-# Overview
+# Asteroids Console Application game using C++ and OpenGL
 
 This project is an implementation of the classic Asteroids game, designed to enhance my skills as a software engineer by exploring game development concepts and real-time programming in C++. The goal of this software is to create a fully functional game that demonstrates core programming principles, including object-oriented design, collision detection, and user interaction.
 
